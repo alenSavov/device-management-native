@@ -1,2 +1,3 @@
 # device-management-native
-React native application for device management
+
+<p>React Native mobile app, for android and iOS that handles the management of devices across different employees of a company.</p>

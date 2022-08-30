@@ -1,0 +1,6 @@
+module Pods_DeviceManagement_DeviceManagementTests {
+  umbrella header "Pods-DeviceManagement-DeviceManagementTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

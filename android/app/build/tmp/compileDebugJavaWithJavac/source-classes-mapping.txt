@@ -1,0 +1,14 @@
+com/webxsoftware/devicemanagement/ReactNativeFlipper.java
+ com.webxsoftware.devicemanagement.ReactNativeFlipper
+ com.webxsoftware.devicemanagement.ReactNativeFlipper$1
+ com.webxsoftware.devicemanagement.ReactNativeFlipper$2
+ com.webxsoftware.devicemanagement.ReactNativeFlipper$2$1
+com/webxsoftware/devicemanagement/MainApplication.java
+ com.webxsoftware.devicemanagement.MainApplication
+ com.webxsoftware.devicemanagement.MainApplication$1
+com/webxsoftware/devicemanagement/MainActivity.java
+ com.webxsoftware.devicemanagement.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/webxsoftware/devicemanagement/BuildConfig.java
+ com.webxsoftware.devicemanagement.BuildConfig

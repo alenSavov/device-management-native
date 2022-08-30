@@ -1,0 +1,6 @@
+module Pods_DeviceManagement {
+  umbrella header "Pods-DeviceManagement-umbrella.h"
+
+  export *
+  module * { export * }
+}

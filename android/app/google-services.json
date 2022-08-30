@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "360196751882",
+    "project_id": "device-management-317821",
+    "storage_bucket": "device-management-317821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360196751882:android:c6b8bf5cdf15722518d5f3",
+        "android_client_info": {
+          "package_name": "com.webxsoftware.devicemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360196751882-nnb8nt33l6cpcl1trsquo0rhu9vmn78q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webxsoftware.devicemanagement",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "360196751882-idjn6j180k2cnj5jq0m5f52qtv0neulk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpESboZmFIyKzKQQbFEWtjWnSJMCJSJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360196751882-idjn6j180k2cnj5jq0m5f52qtv0neulk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360196751882-hchnuedargrveorcgglp850h3lrvbbua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webxsoftware.deviceManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
